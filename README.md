@@ -2,6 +2,17 @@
 
 Project UAS menggunakan API membuat aplikasi Sistem Voting
 
+## Login Cridential
+- Administrator
+Username: faiz
+Password: 12345
+
+- User Biasa
+Username: dummy
+Password: 123
+
+Atau lakukan register untuk membuat akun user biasa.
+
 ## Getting Started (Persyaratan)
 
 Sebelum Anda mulai, pastikan Anda memiliki perangkat lunak berikut terinstal di komputer Anda:
