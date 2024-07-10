@@ -76,18 +76,18 @@ Jalankan proyek di platform desktop yang diinginkan, contoh untuk Windows:
 ### Struktur Direktori
 Berikut adalah struktur direktori utama dalam proyek ini:
 
-nama-proyek-flutter/
-│
-├── android/             # Konfigurasi dan kode spesifik untuk platform Android
-├── build/               # Hasil build (termasuk dalam .gitignore)
-├── ios/                 # Konfigurasi dan kode spesifik untuk platform iOS
-├── lib/                 # Kode sumber utama aplikasi Flutter
-├── macos/               # Konfigurasi dan kode spesifik untuk platform macOS
-├── web/                 # Kode sumber untuk platform web
-├── windows/             # Konfigurasi dan kode spesifik untuk platform Windows
-├── test/                # Unit test untuk proyek
-├── .gitignore           # File untuk mengabaikan file dan direktori tertentu dalam git
-└── pubspec.yaml         # File konfigurasi proyek Flutter
+- nama-proyek-flutter/
+- │
+- ├── android/             # Konfigurasi dan kode spesifik untuk platform Android
+- ├── build/               # Hasil build (termasuk dalam .gitignore)
+- ├── ios/                 # Konfigurasi dan kode spesifik untuk platform iOS
+- ├── lib/                 # Kode sumber utama aplikasi Flutter
+- ├── macos/               # Konfigurasi dan kode spesifik untuk platform macOS
+- ├── web/                 # Kode sumber untuk platform web
+- ├── windows/             # Konfigurasi dan kode spesifik untuk platform Windows
+- ├── test/                # Unit test untuk proyek
+- ├── .gitignore           # File untuk mengabaikan file dan direktori tertentu dalam git
+- └── pubspec.yaml         # File konfigurasi proyek Flutter
 
 Ini hanya contoh struktur direktori, pada VotingApp tersebut diperuntukan untuk desktop/laptop windows dan menggunakan emulator handphone sebagai output, tidak di rekomendasikan lewat browser.
 
