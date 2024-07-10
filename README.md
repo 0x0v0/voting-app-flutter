@@ -18,7 +18,7 @@ Sebelum Anda mulai, pastikan Anda memiliki perangkat lunak berikut terinstal di 
 
 Clone repository proyek ini ke komputer Anda menggunakan perintah berikut:
 
-git clone https://github.com/0x0v0/votingapp-flutter.git
+git clone [https://github.com/0x0v0/votingapp-flutter.git](https://github.com/0x0v0/voting-app-flutter.git)
 cd nama-proyek-flutter
 
 ### 2. Instal Dependencies
